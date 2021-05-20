@@ -1,7 +1,7 @@
 运行环境python版本最好是3.8以上
-.. code-block:: python
-
+```python
     pip install -r requirements.txt
     python roll.py
+```
 
 请查看https://zhuanlan.zhihu.com/p/373853789
